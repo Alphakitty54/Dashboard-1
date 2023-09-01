@@ -13,4 +13,5 @@ Using the two in conjunction is one of the fastest ways to build a web app.
 By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
 
 ### Deployment Link
-https://replit.com/@DonaBiswas1/CloudyLivelySdk
+replit :https://replit.com/@DonaBiswas1/CloudyLivelySdk
+netify: https://64f231bb92a06714efb6ca7d--enchanting-brigadeiros-0c9b71.netlify.app/
